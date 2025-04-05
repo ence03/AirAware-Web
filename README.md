@@ -3,8 +3,8 @@
 **Installation**
 
 1. Clone this repository
-   `git clone https://github.com/your-username/your-repo.git`
-   `cd your-repo`
+   `git clone https://github.com/ence03/AirAware-Web.git`
+   `cd web`
 
 2. Install dependencies
    `npm install`
